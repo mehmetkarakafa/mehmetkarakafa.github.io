@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dolabım Gizlilik Politikası</title>
+  <meta name="description" content="Dolabım Android uygulamasının gizlilik politikası.">
+  <link rel="canonical" href="https://mehmetkarakafa.github.io/dolabim/gizlilik/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <style>
+    :root { --bg:#F7F4EE; --ink:#2B2621; --soft:#6B6258; --line:#E6DDD1; --card:#FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#1A1714; --ink:#F2EDE6; --soft:#B5ABA0; --line:#332D26; --card:#231F1B; } }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+    main { max-width:760px; margin:0 auto; padding:40px 16px 64px; }
+    h1 { font-size:2rem; margin:0 0 4px; }
+    h2 { font-size:1.2rem; margin:32px 0 8px; }
+    p, li { color:var(--ink); }
+    .tarih { color:var(--soft); margin:0 0 24px; }
+    .kutu { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 20px; }
+    ul { padding-left:20px; }
+    a { color:inherit; }
+    hr { border:0; border-top:1px solid var(--line); margin:48px 0 24px; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Dolabım Gizlilik Politikası</h1>
+  <p class="tarih">Son güncelleme: 13 Kasım 2026</p>
+
+  <div class="kutu">
+    <p><strong>Kısaca:</strong> Dolabım hesap açtırmaz, reklam ve analiz aracı içermez, verilerinizi satmaz. Kıyafet fotoğraflarınız, kombinleriniz ve planlarınız telefonunuzda saklanır. Bazı özellikler çalışmak için aşağıda açıklanan Google ve Open-Meteo hizmetlerine sınırlı veri gönderir.</p>
+  </div>
+
+  <h2>1. Telefonunuzda saklanan veriler</h2>
+  <p>Eklediğiniz kıyafet fotoğrafları, kıyafet bilgileri (ad, kategori, renk), kombinler, takvim planları ve ayarlar yalnızca cihazınızda, uygulamanın kendi depolama alanında tutulur. Bu verilere geliştirici olarak erişimim yoktur.</p>
+
+  <h2>2. Kamera ve fotoğraflar</h2>
+  <p>Kamera veya galeri yalnızca siz kıyafet eklemek istediğinizde, seçtiğiniz fotoğraf için kullanılır. Arka plan silme ve kıyafet tanıma öncelikle telefondaki yapay zekâ modelleriyle (Google ML Kit, MediaPipe) cihaz üzerinde yapılır.</p>
+
+  <h2>3. Google Gemini ile kıyafet tanıma</h2>
+  <p>Günlük kullanım hakkı varsa, kıyafeti daha iyi kesmek ve adını/kategorisini önermek için eklediğiniz fotoğraf Google'ın Gemini API hizmetine gönderilir. Fotoğraf yalnızca bu işlem için gönderilir; uygulama sonucu alıp cihazda saklar. Gönderilen içerik Google'ın <a href="https://ai.google.dev/gemini-api/terms">Gemini API Ek Hizmet Şartları</a> ve <a href="https://policies.google.com/privacy">Gizlilik Politikası</a>'na tabidir; ücretsiz katmanda Google bu içeriği hizmetlerini geliştirmek için kullanabilir. Bu nedenle kıyafet fotoğraflarında yüz veya kişisel bilgi bulunmamasına dikkat etmenizi öneririz. Hak dolduğunda veya internet olmadığında yalnızca telefondaki yapay zekâ kullanılır.</p>
+
+  <h2>4. Konum ve hava durumu</h2>
+  <p>Ana sayfadaki hava durumu için isteğe bağlı olarak yaklaşık konum izni istenir. İzin verirseniz yaklaşık koordinatlarınız, hava tahmini almak için <a href="https://open-meteo.com/">Open-Meteo</a> hizmetine gönderilir. Şehri elle ararsanız yazdığınız şehir adı Open-Meteo'ya gönderilir. Konum izni vermeden şehri elle seçebilirsiniz. Konum arka planda izlenmez.</p>
+
+  <h2>5. Google Drive yedeği (isteğe bağlı)</h2>
+  <p>Ayarlar &gt; Yedekleme'den Google hesabınızla giriş yaparsanız yedek dosyası <strong>kendi Google Drive'ınızda</strong>, yalnızca Dolabım'ın erişebildiği gizli uygulama klasöründe (appDataFolder) saklanır. Uygulama yalnızca bu klasöre erişim izni ister; Drive'ınızdaki diğer dosyaları göremez. Yedek geliştiricinin sunucusuna gönderilmez.</p>
+
+  <h2>6. Diğer bağlantılar</h2>
+  <ul>
+    <li><strong>Model indirme:</strong> İlk kıyafet eklemede kıyafet ayırma modeli Google sunucularından (storage.googleapis.com) indirilir. Bu sırada kişisel veri gönderilmez.</li>
+    <li><strong>Paylaşma:</strong> Bir kombini paylaştığınızda görsel, seçtiğiniz uygulamaya Android paylaşma menüsü üzerinden iletilir.</li>
+    <li><strong>Bildirimler:</strong> Hatırlatmalar telefonda yerel olarak oluşturulur; bildirim sunucusu kullanılmaz.</li>
+  </ul>
+
+  <h2>7. Paylaşılmayan veriler</h2>
+  <p>Uygulamada reklam, analiz, çökme raporu veya izleme aracı yoktur. Verileriniz satılmaz ve yukarıda sayılanlar dışında üçüncü taraflarla paylaşılmaz. Tüm bağlantılar şifreli (HTTPS) yapılır.</p>
+
+  <h2>8. Verilerinizi silme</h2>
+  <ul>
+    <li>Kıyafet, kombin ve planları uygulama içinden tek tek silebilirsiniz.</li>
+    <li>Uygulamayı kaldırdığınızda telefondaki tüm Dolabım verileri silinir.</li>
+    <li>Drive yedeğini silmek için Google Drive &gt; Ayarlar &gt; Uygulamaları yönet &gt; Dolabım &gt; "Gizli uygulama verilerini sil" seçeneğini kullanabilirsiniz.</li>
+  </ul>
+
+  <h2>9. Çocuklar</h2>
+  <p>Dolabım 13 yaşın altındaki çocuklara yönelik değildir ve bilerek çocuklardan veri toplamaz.</p>
+
+  <h2>10. Değişiklikler ve iletişim</h2>
+  <p>Bu politika değişirse güncel hali bu sayfada yayınlanır ve üstteki tarih güncellenir. Sorularınız için: <a href="mailto:mehmetcankarakafa@gmail.com">mehmetcankarakafa@gmail.com</a></p>
+
+  <hr>
+
+  <h1 lang="en" style="font-size:1.5rem">Privacy Policy (English summary)</h1>
+  <div lang="en">
+    <p>Dolabım requires no account and contains no ads, analytics or tracking. Your clothing photos, outfits, plans and settings are stored only on your device. When daily quota is available, a photo you add is sent to Google's Gemini API to cut out and label the garment (subject to Google's Gemini API terms; on the free tier Google may use content to improve its services). If you grant approximate location, coordinates (or a city name you type) are sent to Open-Meteo for the weather forecast. Optional backups are stored in your own Google Drive's hidden app folder, which only Dolabım can access. Data is never sold. Uninstalling the app deletes all local data; the Drive backup can be removed from Drive &gt; Settings &gt; Manage apps. Contact: <a href="mailto:mehmetcankarakafa@gmail.com">mehmetcankarakafa@gmail.com</a></p>
+  </div>
+</main>
+</body>
+</html>

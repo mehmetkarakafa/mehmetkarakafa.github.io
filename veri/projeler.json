@@ -1,0 +1,348 @@
+{
+  "olusturuldu": "2026-11-13T10:34:23.812Z",
+  "kaynak": "anahtar",
+  "projeler": [
+    {
+      "id": "10-kasim",
+      "ad": "10-kasim",
+      "gizli": false,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "10 Kasım anısına: 100 tarihî fotoğraftan oluşan Atatürk portresi. Canvas ile fotomozaik.",
+        "en": "In memory of 10 November: an Atatürk portrait made of 100 historical photos. A Canvas photo mosaic."
+      },
+      "diller": [
+        {
+          "ad": "JavaScript",
+          "oran": 75.3
+        },
+        {
+          "ad": "CSS",
+          "oran": 18.3
+        },
+        {
+          "ad": "HTML",
+          "oran": 6.4
+        }
+      ],
+      "guncellendi": "2026-11-12T07:47:19Z",
+      "oneCikan": true,
+      "etiketler": [],
+      "yildiz": 0,
+      "github": "https://github.com/mehmetkarakafa/10-kasim",
+      "demo": "https://mehmetkarakafa.github.io/10-kasim/"
+    },
+    {
+      "id": "TopliResimKirpma",
+      "ad": "TopliResimKirpma",
+      "gizli": false,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Çoklu Kırp: tek bir fotoğrafın üzerine istediğin kadar kırpma alanı çizip taşı, boyutlandır ve tek tek ya da ZIP olarak dışa aktar. Tamamen tarayıcıda çalışır.",
+        "en": "Çoklu Kırp: draw as many crop areas as you like on a single photo, move and resize them, and export one by one or as a ZIP. Runs entirely in the browser."
+      },
+      "diller": [
+        {
+          "ad": "JavaScript",
+          "oran": 54.5
+        },
+        {
+          "ad": "CSS",
+          "oran": 26.5
+        },
+        {
+          "ad": "HTML",
+          "oran": 18.9
+        }
+      ],
+      "guncellendi": "2026-11-12T07:47:30Z",
+      "oneCikan": true,
+      "etiketler": [
+        "canvas",
+        "image-cropper",
+        "javascript"
+      ],
+      "yildiz": 0,
+      "github": "https://github.com/mehmetkarakafa/TopliResimKirpma",
+      "demo": "https://mehmetkarakafa.github.io/TopliResimKirpma/"
+    },
+    {
+      "id": "portfoy",
+      "ad": "portfoy",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Google Tablolar ve Apps Script üzerinde bütçe, kredi kartı, yatırım ve raporları birleştiren kişisel finans uygulaması.",
+        "en": "A personal finance app on Google Sheets and Apps Script that brings budgets, credit cards, investments and reports together."
+      },
+      "diller": [
+        {
+          "ad": "HTML",
+          "oran": 69.5
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 30.5
+        }
+      ],
+      "guncellendi": "2026-11-12T07:20:59Z",
+      "oneCikan": true,
+      "etiketler": [],
+      "detay": "portfoy"
+    },
+    {
+      "id": "sifre-kasasi",
+      "ad": "sifre-kasasi",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Tarayıcıda uçtan uca şifrelenen, Google Tablolar'da saklanan kişisel şifre kasası.",
+        "en": "A personal password vault, end-to-end encrypted in the browser and stored in Google Sheets."
+      },
+      "diller": [
+        {
+          "ad": "HTML",
+          "oran": 88.8
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 11.2
+        }
+      ],
+      "guncellendi": "2026-11-11T12:14:47Z",
+      "oneCikan": true,
+      "etiketler": [],
+      "detay": "sifre-kasasi"
+    },
+    {
+      "id": "sitelerim",
+      "ad": "sitelerim",
+      "gizli": false,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Sitelerim: uygulamalarıma ve yayındaki sitelerime tek tıkla ulaştığım başlangıç sayfası. Açık/koyu tema, telefona uyumlu.",
+        "en": "Sitelerim: a start page that takes me to my apps and live sites in one click. Light/dark theme, mobile friendly."
+      },
+      "diller": [
+        {
+          "ad": "HTML",
+          "oran": 100
+        }
+      ],
+      "guncellendi": "2026-11-12T07:47:58Z",
+      "oneCikan": false,
+      "etiketler": [
+        "html",
+        "css",
+        "başlangıç-sayfası"
+      ],
+      "yildiz": 0,
+      "github": "https://github.com/mehmetkarakafa/sitelerim",
+      "demo": "https://mehmetkarakafa.github.io/sitelerim/"
+    },
+    {
+      "id": "kasimpatimm",
+      "ad": "kasimpatimm",
+      "gizli": false,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Kasımpatı: gece gökyüzünde yıldızların altında açan kasımpatı çiçekleri animasyonu. Renk temaları ve düzenlenebilir not; saf HTML, CSS ve JavaScript.",
+        "en": "Kasımpatı: an animation of chrysanthemums blooming under a starry night sky. Colour themes and an editable note; plain HTML, CSS and JavaScript."
+      },
+      "diller": [
+        {
+          "ad": "CSS",
+          "oran": 61.6
+        },
+        {
+          "ad": "HTML",
+          "oran": 26.6
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 11.8
+        }
+      ],
+      "guncellendi": "2026-11-12T07:47:48Z",
+      "oneCikan": false,
+      "etiketler": [
+        "animasyon",
+        "css",
+        "javascript"
+      ],
+      "yildiz": 0,
+      "github": "https://github.com/mehmetkarakafa/kasimpatimm",
+      "demo": "https://mehmetkarakafa.github.io/kasimpatimm/"
+    },
+    {
+      "id": "KisiselPanel",
+      "ad": "KisiselPanel",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "MehmetOS: projeler, web siteleri, notlar ve görevler için tek ekranlık kişisel yönetim paneli. Google Tablolar ve Apps Script üzerinde çalışır, PIN ile kilitlenir.",
+        "en": "MehmetOS: a single-screen personal dashboard for projects, websites, notes and tasks. Runs on Google Sheets and Apps Script, locked with a PIN."
+      },
+      "diller": [
+        {
+          "ad": "HTML",
+          "oran": 67
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 33
+        }
+      ],
+      "guncellendi": "2026-11-12T07:20:52Z",
+      "oneCikan": false,
+      "etiketler": []
+    },
+    {
+      "id": "EsnafAl",
+      "ad": "EsnafAl",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "EsnafAI: küçük işletmeler için 7/24 WhatsApp yapay zekâ asistanı. Tanıtım sayfası, kullanıcı ve yönetici panelleri, kurumsal (white-label) sürüm arayüzü.",
+        "en": "EsnafAI: a 24/7 WhatsApp AI assistant for small businesses. Landing page, user and admin panels and a white-label edition UI."
+      },
+      "diller": [
+        {
+          "ad": "HTML",
+          "oran": 51.1
+        },
+        {
+          "ad": "CSS",
+          "oran": 36.6
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 12.2
+        }
+      ],
+      "guncellendi": "2026-10-10T17:03:24Z",
+      "oneCikan": false,
+      "etiketler": []
+    },
+    {
+      "id": "bibleyoTerapi",
+      "ad": "bibleyoTerapi",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Bibliyoterapi platformu: öğretmenler sınıflarına hikâye ve sorular atar, öğrenciler cevaplar. Laravel ile web paneli ve Flutter ile mobil uygulama.",
+        "en": "A bibliotherapy platform: teachers assign stories and questions to classes and students answer them. Laravel web panel and a Flutter mobile app."
+      },
+      "diller": [
+        {
+          "ad": "Blade",
+          "oran": 39.4
+        },
+        {
+          "ad": "PHP",
+          "oran": 34.8
+        },
+        {
+          "ad": "Dart",
+          "oran": 12.4
+        },
+        {
+          "ad": "C++",
+          "oran": 6.6
+        },
+        {
+          "ad": "CMake",
+          "oran": 5.1
+        },
+        {
+          "ad": "Swift",
+          "oran": 0.6
+        }
+      ],
+      "guncellendi": "2026-08-03T11:19:16Z",
+      "oneCikan": false,
+      "etiketler": []
+    },
+    {
+      "id": "NotX",
+      "ad": "NotX",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "NotX: notlar, görevler, takvim, wiki, kod arşivi, dosyalar ve küçük bir CRM'i bir araya getiren kişisel çalışma alanı. Kendi yazdığım PHP MVC yapısı.",
+        "en": "NotX: a personal workspace combining notes, tasks, calendar, wiki, code archive, files and a small CRM, on a hand-written PHP MVC structure."
+      },
+      "diller": [
+        {
+          "ad": "PHP",
+          "oran": 91.6
+        },
+        {
+          "ad": "HTML",
+          "oran": 4.5
+        },
+        {
+          "ad": "CSS",
+          "oran": 3.5
+        }
+      ],
+      "guncellendi": "2026-07-13T15:09:12Z",
+      "oneCikan": false,
+      "etiketler": []
+    },
+    {
+      "id": "PortfoyTakip",
+      "ad": "PortfoyTakip",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "Portföyüm: hisse ve varlıkları canlı fiyatlarla izleyen portföy takip uygulaması. Hedefler, işlem geçmişi ve Telegram bildirimleri. PHP ve MySQL.",
+        "en": "Portföyüm: a portfolio tracker that follows stocks and assets with live prices. Goals, transaction history and Telegram alerts. PHP and MySQL."
+      },
+      "diller": [
+        {
+          "ad": "PHP",
+          "oran": 70.1
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 21.3
+        },
+        {
+          "ad": "CSS",
+          "oran": 8.5
+        }
+      ],
+      "guncellendi": "2026-07-11T20:49:51Z",
+      "oneCikan": false,
+      "etiketler": []
+    },
+    {
+      "id": "BarberOs",
+      "ad": "BarberOs",
+      "gizli": true,
+      "isimsiz": false,
+      "aciklama": {
+        "tr": "BarberOS: berber salonları için online randevu sitesi ve yönetim paneli. Hizmet, çalışan ve çalışma saatlerine göre randevu, müşteri takibi ve raporlar.",
+        "en": "BarberOS: an online booking site and admin panel for barber shops. Appointments by service, staff and opening hours, customer tracking and reports."
+      },
+      "diller": [
+        {
+          "ad": "PHP",
+          "oran": 83.3
+        },
+        {
+          "ad": "CSS",
+          "oran": 10.4
+        },
+        {
+          "ad": "JavaScript",
+          "oran": 6.1
+        }
+      ],
+      "guncellendi": "2026-07-11T20:42:03Z",
+      "oneCikan": false,
+      "etiketler": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mehmetkarakafa.github.io/sitemap.xml

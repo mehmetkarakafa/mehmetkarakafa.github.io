@@ -1,0 +1,1 @@
+import{c as e,g as t,h as n,p as r,t as i}from"./sayfa-DdOAA3Et.js";/* empty css                 */i({id:`404`,baslik:()=>e(`404.baslik`)+` — `+t.ad,aciklama:()=>e(`404.aciklama`),ciz:()=>r(`section`,{class:`kap bulunamadi`},r(`div`,{class:`kod`,text:`404`}),r(`h1`,{text:e(`404.baslik`)}),r(`p`,{text:e(`404.aciklama`)}),r(`a`,{class:`btn ana`,href:`/`},n(`ev`),e(`404.don`)))});
